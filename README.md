@@ -20,13 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
-This wasn't a difficult project to code. I set the container to 320px wide and added figure and section containers. The image went inside the figure and the text goes into the section. Apply padding, colors, rounded corners, text styling and a box-shadow on the main container.
+I set the container to 320px wide and added figure and section containers. The image went inside the figure and the text goes into the section. Apply padding, colors, rounded corners, text styling and a box-shadow on the main container.
 
 This layout is narrow enough that it doesn't require a mobile view.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Jun-Ueno/qr-code-component-main](https://github.com/Jun-Ueno/qr-code-component-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -55,8 +55,5 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
+- Frontend Mentor - [@Jun-Ueno](https://www.frontendmentor.io/profile/Jun-Ueno)
+- LinkedIn - [jun-ueno-5a558163](https://www.linkedin.com/in/jun-ueno-5a558163/)
